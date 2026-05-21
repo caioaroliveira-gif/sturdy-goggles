@@ -12,7 +12,7 @@ function App() {
     <>
       <div className="main"></div>
         <h1>Cadastro do Agiota</h1>
-
+        
       <Cadastro />
 
 
